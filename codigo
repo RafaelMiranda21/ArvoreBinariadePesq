@@ -1,3 +1,5 @@
+//https://pt.wikibooks.org/wiki/Programar_em_C/%C3%81rvores_bin%C3%A1rias
+
 # include <iostream>
 # include <queue>
 # include <stl_queue.h>
